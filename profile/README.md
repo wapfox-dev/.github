@@ -1,12 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+<a href="https://github.com/wapfox-dev">
+  <img width="180" src="https://api.oos.uninull.cn/tenyon/assets/wapfox.png" alt="wapfox">
+</a>
+<p align="center"><b>wapfox</b>['wæp fɒks]专注，自由，高效</p>
 
-**Here are some ideas to get you started:**
+<a href="https://open.cuuxx.com" target="_blank"><img alt="Preview url" src="https://img.shields.io/badge/%E5%AF%BC%E8%88%AA-8A2BE2?color=%2314C9C9"/></a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+
+
+## 相关链接
+
+- [官网](https://halo.run)
+- [文档](https://docs.halo.run)
+
+## 加入社区
+
+- [亿智狐 官方论坛](https://bbs.wapfox.com/)
+- [Telegram 群组](https://t.me/wapfox)
+- [Telegram 频道](https://t.me/wapfox_dev)
