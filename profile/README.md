@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/wapfox-dev">
-  <img width="180" src="https://api.oos.uninull.cn/tenyon/assets/wapfox.png" alt="wapfox">
+  <img width="180" src="https://api.oos.uninull.cn/tenyon/assets/work/wapfox.png" alt="wapfox">
 </a>
 <p align="center"><b>wapfox</b>['wæp fɒks]专注，自由，高效</p>
 
