@@ -3,7 +3,7 @@
 <a href="https://github.com/wapfox-dev">
   <img width="180" src="https://api.oos.uninull.cn/tenyon/assets/work/wapfox.png" alt="wapfox">
 </a>
-<p align="center"><b>Wapfox</b>['wæp fɒks]专注，自由，高效</p>
+<p align="center"><b>Wapfox</b>['wæp fɒks]专注，自由，沉淀，高效</p>
 
 <a href="https://open.cuuxx.com" target="_blank"><img alt="Preview url" src="https://img.shields.io/badge/%E5%AF%BC%E8%88%AA-8A2BE2?color=%2314C9C9"/></a>
 
